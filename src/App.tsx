@@ -1,22 +1,23 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <h1>
+          Welcome to Profile of bickie343
+        </h1>
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          My Profile has only one example (for now):
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://bickie343.github.io/showcase-circus/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Circus Showcase
         </a>
       </header>
     </div>
